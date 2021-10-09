@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+}
+.body{
+    font-family: 'Merriweather', serif;
+}
+.nav-link{
+   color: black; 
+   font-weight: 600;
+}
+.navbar-brand{
+    color: black;
+    font-weight: 700;
+}
+.main{
+   background: url(./img/3.jpg) no-repeat;
+   background-size: 100% 100%;
+   width: 100%; 
+}
+.main h1{
+   font-size: 3rem;
+   font-weight: 700; 
+}
+.card{
+    border: none; 
+}
+.main select{
+    height: 40px;
+    width: 90%;
+    outline: none;
+    padding: 0 20px ;
+}
+.main span{
+    color: rgb(104, 89, 89);
+    font-weight: 600;
+}
+ .btn{
+    background-color: coral;
+    color: white;
+    outline: none;
+    border: none;
+    width: 90%; 
+    height: 40px; 
+    margin-top: 32px;
+}
+.btn:hover{
+    background-color: tomato;
+    transition: 0.5s;
+}
+.rent{
+    background: rgba(238,235,235)
+}
