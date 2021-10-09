@@ -37,7 +37,7 @@
     font-weight: 600;
 }
  .btn{
-    background-color: coral;
+    background-color: black;
     color: white;
     outline: none;
     border: none;
@@ -66,4 +66,13 @@
     padding: 10px ;
     font-weight: 500;
 
+}
+.btnf{
+   background-color: black;
+   color: white;
+   height: 45px;
+   width: 200px; 
+   outline: none; 
+   border: none;
+   display: inline-block;
 }
