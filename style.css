@@ -52,3 +52,18 @@
 .rent{
     background: rgba(238,235,235)
 }
+.btnc{
+    height: 45px;
+    width: 150px;
+    background-color: white ;
+    color: black;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    left: 30%;
+    right: 20%;
+    padding: 10px ;
+    font-weight: 500;
+
+}
