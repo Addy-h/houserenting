@@ -76,3 +76,17 @@
    border: none;
    display: inline-block;
 }
+
+footer{
+    background-color: black;
+    color: white;
+
+}
+.fab{
+    font-size: 25px;
+    color:black;
+}
+.fab:hover{
+    color: white;
+    transition: 0.5s; 
+}
